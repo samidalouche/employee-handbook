@@ -13,3 +13,4 @@ Founder & CEO
 ## Introduction
 * [Mission Statement](https://github.com/narrative-io/employee-handbook/blob/master/Mission%20Statement.md)
 * [Core Values](https://github.com/narrative-io/employee-handbook/blob/master/Core%20Values.md)
+* [Policy Changes](https://github.com/narrative-io/employee-handbook/blob/master/Policy%20Changes.md)
