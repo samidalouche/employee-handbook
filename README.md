@@ -20,4 +20,4 @@ Founder & CEO
 * [Code of Conduct in the Community](https://github.com/narrative-io/employee-handbook/blob/master/Employment%20Policies/Code%20of%20Conduct%20in%20the%20Community.md)
 
 ## Onboarding Documents
-* [Things You Will Need](https://github.com/narrative-io/employee-handbook/blob/master/Employment%20Policies/Things%You%Will%Need.md)
+* [Things You Will Need](https://github.com/narrative-io/employee-handbook/blob/master/Onboarding%20Documents/Things%20You%20Will%20Need.md)
