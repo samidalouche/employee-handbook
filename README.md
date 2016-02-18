@@ -17,4 +17,4 @@ Founder & CEO
 
 ## Employment Policies
 * [Equal Opportunity Employment](https://github.com/narrative-io/employee-handbook/blob/master/Employment%20Policies/Equal%20Opportunity%20Employment.md)
-* [Code of Conduct in the Community](https://github.com/narrative-io/employee-handbook/blob/master/Employment%20Policies/Code%20of%Conduct%20in%20the%20Community.md)
+* [Code of Conduct in the Community](https://github.com/narrative-io/employee-handbook/blob/master/Employment%20Policies/Code%20of%20Conduct%20in%20the%20Community.md)
