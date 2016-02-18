@@ -5,10 +5,11 @@ As Narrative is in its infancy, so is this document.  As the company grows so wi
 
 Please reach out if you ever want to discuss.
 
-[Nick](mailto:nick@narrative.io)
+[Nick](mailto:nick@narrative.io)  
 Founder & CEO
 
 ***
 
 ## Introduction
 * [Mission Statement](https://github.com/narrative-io/employee-handbook/blob/master/Mission%20Statement.md)
+* [Core Values](https://github.com/narrative-io/employee-handbook/blob/master/Core%20Values.md)
